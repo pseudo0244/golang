@@ -9,6 +9,7 @@ This repository is dedicated to documenting my journey of learning and mastering
 - To develop a solid understanding of Go programming.
 - To create a reference guide for future projects.
 - To share knowledge with others who are interested in learning Go.
+- Build cool backend and cloud projects using Go
 
 ## How to Use
 Feel free to browse through the notes and examples. If you have suggestions or corrections, you can fork the repository and submit a pull request.
